@@ -3,7 +3,10 @@
 <html>
 
 <p align=center>
-<video src="e1eafefd917ec8942d23d9ff2d644a7a.mp4">
+<video autoplay muted loop playsinline>
+  <source src="e1eafefd917ec8942d23d9ff2d644a7a.mp4" type="video/mp4">
+</video>
+
 </p>
 
 <p align=center>
