@@ -3,7 +3,7 @@
 <html>
 
 <p align=center>
-<marquee>⚡ МАКСИМАЛЬНЫЙ УРОВЕНЬ КОРТИЗОЛА ⚡ РАБОТАЮ БЕЗ ВЫХОДНЫХ ⚡ CODE CODE CODE ⚡</marquee>
+![](https://demolab.com🔥+SKIBIDI+CODING+INTENSIFIES+🔥;⚡+MAX+CORTISOL+LEVEL+⚡;NO+CAP+FR+FR)
 <img src="e1eafefd917ec8942d23d9ff2d644a7a-ezgif.com-video-to-gif-converter.gif">
 
 </p>
