@@ -1,34 +1,31 @@
 <table>
-  <!-- Строка 1: ячейки 1, 2, 3 объединены по горизонтали -->
+  <!-- 1, 2, 3: Верхняя горизонтальная (Subway Surfers) -->
   <tr>
     <td colspan="3" align="center">
-      <b>Верхний блок (1, 2, 3)</b><br>
-      Сюда можно вставить баннер или заголовок
+      <img src="subway-surfers.gif" width="100%" alt="Subway Surfers">
     </td>
   </tr>
 
-  <!-- Строка 2: квадрат (4, 5, 7, 8) и вертикальный блок (6, 9, 12) -->
+  <!-- 4, 5, 7, 8: Большой квадрат и 6, 9, 12: Вертикальная правая -->
   <tr>
     <td colspan="2" rowspan="2" align="center" width="66%">
-      <b>Квадратный блок (4, 5, 7, 8)</b><br>
-      Занимает 2 столбца и 2 строки
+      <img src="e1eafefd917ec8942d23d9ff2d644a7a-ezgif.com-video-to-gif-converter.gif" width="100%" alt="Gif 2">
     </td>
     <td rowspan="3" align="center" width="33%">
-      <b>Вертикальный блок (6, 9, 12)</b><br>
-      Занимает 3 строки в высоту
+      <img src="i-wanna-try-iwannatry.gif" width="100%" alt="I wanna try">
     </td>
   </tr>
 
-  <!-- Строка 3: пустая, так как её место заняли блоки выше -->
+  <!-- Пустая строка для корректной работы объединения ячеек -->
   <tr></tr>
 
-  <!-- Строка 4: два маленьких блока (10 и 11), третий столбец занят вертикальным -->
+  <!-- 10 и 11: Две маленькие гифки снизу слева -->
   <tr>
     <td align="center" width="33%">
-      <b>Малый 1 (10)</b>
+      <img src="ww.gif" width="100%" alt="WW">
     </td>
     <td align="center" width="33%">
-      <b>Малый 2 (11)</b>
+      <img src="pungins.gif" width="100%" alt="Pungins">
     </td>
   </tr>
 </table>
