@@ -4,7 +4,7 @@
   </tr>
   <tr>
     <td colspan="2" rowspan="2" width="66%"><img src="e1eafefd917ec8942d23d9ff2d644a7a-ezgif.com-video-to-gif-converter.gif" width="100%"></td>
-    <td rowspan="3" width="33%"><img src="i-wanna-try-iwannatry.gif" width="100%"; height="100%"></td>
+    <td rowspan="3" width="33%"><img src="i-wanna-try-iwannatry.gif" width="100%"; height="1000px%"></td>
   </tr>
   <tr></tr>
   <tr>
