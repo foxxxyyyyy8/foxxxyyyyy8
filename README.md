@@ -2,7 +2,7 @@
   <!-- 1, 2, 3: Верхняя горизонтальная (Subway Surfers) -->
   <tr>
     <td colspan="3" align="center">
-      <img src="subway-surfers.gif" width="100%"; height: 250px alt="Subway Surfers">
+      <img src="subway-surfers.gif" width="100%"; height: 100px alt="Subway Surfers">
     </td>
   </tr>
 
