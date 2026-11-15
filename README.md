@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td colspan="3"><img src="subway-surfers.gif" width="100%"; height="200px"></td>
+    <td colspan="3"><img src="subway-surfers.gif" width="100%"; height="350px"></td>
   </tr>
   <tr>
     <td colspan="2" rowspan="2" width="66%"><img src="e1eafefd917ec8942d23d9ff2d644a7a-ezgif.com-video-to-gif-converter.gif" width="100%"></td>
