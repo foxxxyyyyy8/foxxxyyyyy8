@@ -1,11 +1,34 @@
+<table>
+  <!-- Строка 1: ячейки 1, 2, 3 объединены по горизонтали -->
+  <tr>
+    <td colspan="3" align="center">
+      <b>Верхний блок (1, 2, 3)</b><br>
+      Сюда можно вставить баннер или заголовок
+    </td>
+  </tr>
 
+  <!-- Строка 2: квадрат (4, 5, 7, 8) и вертикальный блок (6, 9, 12) -->
+  <tr>
+    <td colspan="2" rowspan="2" align="center" width="66%">
+      <b>Квадратный блок (4, 5, 7, 8)</b><br>
+      Занимает 2 столбца и 2 строки
+    </td>
+    <td rowspan="3" align="center" width="33%">
+      <b>Вертикальный блок (6, 9, 12)</b><br>
+      Занимает 3 строки в высоту
+    </td>
+  </tr>
 
-<html>
-  
-<p align=center>
-<img src="subway-surfers.gif" style="width: 100%; height: 200px; object-fit: cover;">
-<img src="e1eafefd917ec8942d23d9ff2d644a7a-ezgif.com-video-to-gif-converter.gif" style="width: 50%"; height: 500px>
-<img src="i-wanna-try-iwannatry.gif" style="width: 50%; height: 700px; object-fit: scale-down ;">
-</p>
+  <!-- Строка 3: пустая, так как её место заняли блоки выше -->
+  <tr></tr>
 
-</html>
+  <!-- Строка 4: два маленьких блока (10 и 11), третий столбец занят вертикальным -->
+  <tr>
+    <td align="center" width="33%">
+      <b>Малый 1 (10)</b>
+    </td>
+    <td align="center" width="33%">
+      <b>Малый 2 (11)</b>
+    </td>
+  </tr>
+</table>
